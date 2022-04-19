@@ -2,4 +2,5 @@
 
 Carousel 
 
-![carousel](https://github.com/pemaram/carousel/tree/main/gif)
+![Carousel](https://github.com/pemaram/carousel/blob/main/gif/carousel.gif)
+
